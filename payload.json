@@ -1,0 +1,8 @@
+Status Code: 200
+Content-Type: application/json
+Body:
+{
+"phone": "628123456789",
+"type": "text",
+"value": "Hai Juga"
+}
